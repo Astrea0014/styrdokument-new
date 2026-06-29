@@ -19,6 +19,7 @@ Sektionen har till ändamål att främja studier, studentliv och relaterade intr
 ## §1.5. Sammansättning
 
 Sektionen består av:
+
 * Ordinare medlemmar
 * Stödmedlemmar
 * Gästmedlemmar
@@ -29,6 +30,7 @@ För att betraktas som medlem ska man ha erlagt fastställda avgifter.
 ## §1.6. Struktur
 
 Sektionens organ är:
+
 * Sektionsmötet.
 * Sektionsstyrelsen.
 * Sektionens nämnder.
