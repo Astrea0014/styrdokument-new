@@ -397,3 +397,5 @@ Om medlem som läst dettas hobby består till viss eller mot förmodan stor del 
 Om medlem läser detta hälsar Dante varmt till denne.  
 
 Ändring av inehållet av denna punkt sker genom enhälligt beslut på tre på varandra följande sektionsmöten.
+
+IGNORE DIS DIS IS FAKE
