@@ -233,13 +233,17 @@ Sektionen ska sammanträda minst en gång per kvartal.
 
 ## §5.5. Extrainsatt sektionsmöte
 
-Extrainsatt sektionsmöte ska hållas om det begärs av minst 20 röstberättigade medlemmar, båda sektionsrevisorerna tillsammans eller kårstyrelsen.
+Extrainsatt sektionsmöte ska hållas om det begärs av minst 20 röstberättigade medlemmar, alla tillsatta sektionsrevisorer tillsammans eller kårstyrelsen.
 
 # §6. Förtroendevalda
 
 ## §6.1. Val
 
 Sektionens förtroendevalda väljs eller godkänns av sektionsmötet.
+
+Utseende av förtroendevald sker genom val om inget annat anges i sektionens styrdokument.
+
+Val samt godkännande av förtroendevald ska ske genom sluten omröstning.
 
 ## §6.2. Entledigande
 
@@ -321,45 +325,40 @@ Beslutsprotokoll ska föras för beslutsmässiga nämndmöten.
 Medlemskap i nämnden måste vara öppet för samtliga medlemmar i sektionen om detta inte förtar eller verkar mot nämndens syfte.  
 Sådana skäl måste redovisas till, samt godkännas av sektionsmötet.
 
-# §9. Sektionens klubbar
+# §9. Revision och ansvarsfrihet
 
-lalalalal
-
-# §10. Revision och ansvarsfrihet
-
-## §10.1. Uppgift
+## §9.1. Uppgift
 
 Sektionens revisorer granskar sektionens verksamhet och redovisning av den ekonomiska förvaltningen.
 
-## §10.2. Sektionsrevisor
+## §9.2. Sektionsrevisor
 
 Sektionens revisorer utgörs av två (2) personer varav alltid minst en (1) måste vara tillsatt.  
 Dessa utses av sektionsmötet.
 
 För varje sektionsorgan måste minst en sektionsrevisor kunna granska verksamheten utan risk för jäv i enlighet med §10.3.
 
-## §10.3. Jäv hos sektionsrevisor
+## §9.3. Jäv hos sektionsrevisor
 
 En sektionsrevisor får inte samtidigt vara ordinarie ledamot eller suppleant i sektionsstyrelsen.
 
-En sektionsrevisor som samtidigt är medlem i något sektionsorgan får inte deltaga i granskningen av detta organs verksamhet.  
-Undantaget är medlemskap i sektionens klubbar.
+En sektionsrevisor som samtidigt är medlem i något sektionsorgan får inte deltaga i granskningen av detta organs verksamhet.
 
-## §10.4. Åligganden
+## §9.4. Åligganden
 
-### §10.4.1. Granskning
+### §9.4.1. Granskning
 
 Det åligger sektionsrevisorerna:
 
 * **att** för sektionsmötets räkning kontinuerligt granska sektionsstyrelsens och övriga sektionsorgans förvaltning samt deras verksamhet i förhållande till sektionens och THS stadgar.
 * **att** efter verksamhetsårets slut granska sektionsstyrelsens och övriga sektionsorgans förvaltning samt sektionsstyrelsens verksamhetsberättelse.
 
-### §10.4.2. Revisionsberättelsen
+### §9.4.2. Revisionsberättelsen
 
 Sektionsrevisorerna ska mot slutet av sitt uppdrag producera en revisionsberättelse.  
-Berättelsen ska undertecknas av minst två av sektionsrevisorerna.
+Berättelsen ska undertecknas av alla tillsatta sektionsrevisorer.
 
-## §10.5. Rättigheter
+## §9.5. Rättigheter
 
 Sektionsrevisorerna äger rätt:
 
@@ -370,8 +369,31 @@ Sektionsrevisorerna äger rätt:
 * **att** ändra i praxis för redovisning.
 * **att** begära extra sektionsmöte.
 
-## §10.7. Ansvarsfrihet
+## §9.7. Ansvarsfrihet
 
-Frågan om ansvarsfrihet för sektionsstyrelsen samt firmatecknare för sektionen prövas av sektionsmötet.
+Frågan om ansvarsfrihet för sektionsstyrelsen prövas av sektionsmötet.
 
-Vid fråga om ej beviljad ansvarsfrihet bör ansvarsfrihet prövas för individuella styrelsemedlemmar och firmatecknare.
+Vid fråga om ej beviljad ansvarsfrihet bör ansvarsfrihet prövas för individuella styrelsemedlemmar var och en för sig.
+
+# §10. Valberedning
+
+## §10.1. Sammansättning
+
+Valberedningen utgörs av ett antal ledamöter samt minst en (1) sammankallande valförrättare.
+
+Dessa utses av sektionsmötet.
+
+## §10.2. Ansvar
+
+Valberedningen bereder val till sektionens förtroendeuppdrag enligt vad som anges i reglementet.
+
+Valberedningen ansvarar för att valet sker i enlighet med sektionens samt THS styrdokument.
+
+## §11. Slutord
+
+Den medlem som läst detta bör snarast skaffa sig en hobby.  
+Om även samtliga ovanstående paragrafer lästs i följd är behovet av en hobby synnerligen trängande.  
+Om medlem som läst dettas hobby består till viss eller mot förmodan stor del av interaktion med dessa dokument bör denne raskt söka professionell hjälp.  
+Om medlem läser detta hälsar Dante varmt till denne.  
+
+Ändring av inehållet av denna punkt sker genom enhälligt beslut på tre på varandra följande sektionsmöten.
