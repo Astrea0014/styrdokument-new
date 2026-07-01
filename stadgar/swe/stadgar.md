@@ -389,7 +389,7 @@ Valberedningen bereder val till sektionens förtroendeuppdrag enligt vad som ang
 
 Valberedningen ansvarar för att valet sker i enlighet med sektionens samt THS styrdokument.
 
-## §11. Slutord
+# §11. Slutord
 
 Den medlem som läst detta bör snarast skaffa sig en hobby.  
 Om även samtliga ovanstående paragrafer lästs i följd är behovet av en hobby synnerligen trängande.  
