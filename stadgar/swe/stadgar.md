@@ -42,17 +42,21 @@ Sektionens organ är:
 
 Sektionen använder sig av följande beslutsnivåer:
 
-* **Relativ majoritet:** Mer än hälften (> 1/2) av rösterna.
+* **Relativ majoritet:** Flest av rösterna.
 * **Kvalificerad majoritet:** Mer än två tredjedelar (> 2/3) av rösterna.
 * **Enhälligt:** Alla rösterna.
 
 Om inget annat anges krävs relativ majoritet för ett beslut.
 
-## §1.8. Verksamhetsår
+## §1.8. Tillkännagivande
+
+Kallelser, möteshandlingar och justerade protokoll anses vara tillkännagivna när de gjorts tillgängliga enligt vad som anges i reglemente.
+
+## §1.9. Verksamhetsår
 
 Sektionens verksamhetsår löper från och med den 1:a januari till och med den 31:a december.
 
-## §1.9. Firmateckning
+## §1.10. Firmateckning
 
 Sektionens firma tecknas av sektionens ordförande samt sektionens kassör.
 Dessa tecknar firman tillsammans.
@@ -92,8 +96,8 @@ Sektionen är en ideell förening.
 
 ## §3.2. Budget
 
-Sektionens budget godkäns av sektionsmötet.
-Ändring av redan fastställd budget kräver ett beslut med kvalificerad majoritet på ett sektionsmöte.
+Sektionens budget godkänns av sektionsmötet.
+Ändring av redan fastställd budget kräver bifall på beslut med kvalificerad majoritet på ett sektionsmöte.
 
 ## §3.3. Skyldigheter
 
@@ -123,7 +127,7 @@ Medlem är skyldig att årligen erlägga av sektionen och THS fastställda avgif
 
 ### §4.2.1. Definition
 
-En THS-medlem som studerar vid Kungliga Tekniska Högskolan vid ett program tillhörande sektionen, så kallad *ordinarie medlem*.
+En THS-medlem som studerar vid Kungliga Tekniska Högskolan samt är kartlagd till Kongliga Sektionen för Informationsteknik, så kallad *ordinarie medlem*.
 
 ### §4.2.2. Rättigheter
 
@@ -142,7 +146,7 @@ Rösträtten får ej nyttjas i fråga som rör val av egen person eller egen ans
 * **att** ta del av den service som sektionen erbjuder.
 * **att** bära sektionens overall med sektionens färg och sektionens insignia.
 
-### 4.2.3. Skyldigheter
+### §4.2.3. Skyldigheter
 
 Ordinarie medlem är skyldig:
 
@@ -170,7 +174,7 @@ Stödmedlem har samma skyldigheter som ordinarie medlem.
 
 ### §4.4.1. Definition
 
-En THS-medlem som studerar vid Kungliga Tekniska Högskolan **men inte** vid ett program tillhörande sektionen, så kallad *gästmedlem*.
+En THS-medlem som studerar vid Kungliga Tekniska Högskolan **men som ej** är kartlagd till Kongliga Sektionen för Informationsteknik, så kallad *gästmedlem*.
 
 ### §4.4.2. Rättigheter
 
@@ -185,7 +189,9 @@ Gästmedlem har samma skyldigheter som ordinarie medlem.
 
 ### §4.4.4. Beviljande av gästmedlemskap
 
-Beviljande av gästmedlemskap beslutas av sektionsstyrelsen med kvalificerad majoritet för återstoden av verksamhetsåret.
+Beviljande av gästmedlemskap kräver bifall på beslut av sektionsstyrelsen med kvalificerad majoritet.
+
+Gästmedlemskapet när beviljat gäller för återstoden av verksamhetsåret.
 
 ## §4.5. Hedersmedlem
 
@@ -207,11 +213,11 @@ Hedersmedlem har inga direkta skyldigheter.
 
 ### §4.5.4. Utseende av hedersmedlem
 
-Utmärkelsen hedersmedlem utses av sektionsmötet med kvalificerad majoritet.
+Utmärkelsen hedersmedlem utses av sektionsmötet genom bifall på beslut med kvalificerad majoritet.
 
 ### §4.5.5. Uteslutning
 
-Hedersmedlem som misskött sig eller åsamkat sektionen skada kan efter beslut av sektionsmötet med kvalificerad majoritet uteslutas.
+Hedersmedlem som misskött sig eller åsamkat sektionen skada kan efter bifall på beslut av sektionsmötet med kvalificerad majoritet uteslutas.
 
 # §5. Sektionsmötet, SM
 
@@ -231,6 +237,8 @@ THS kårstyrelse, THS revisorer samt medlemmar i enlighet med **§4** erhåller 
 
 Sektionen ska sammanträda minst en gång per kvartal.
 
+Sektionen kan ej sammanträda under tentamensperiod eller ferie.
+
 ## §5.5. Extrainsatt sektionsmöte
 
 Extrainsatt sektionsmöte ska hållas om det begärs av minst 20 röstberättigade medlemmar, alla tillsatta sektionsrevisorer tillsammans eller kårstyrelsen.
@@ -247,7 +255,17 @@ Val samt godkännande av förtroendevald ska ske genom sluten omröstning.
 
 ## §6.2. Entledigande
 
-Förtroendevald, med undantag för ledamot och suppleant till THS kårfullmäktige, kan entledigas av sektionsstyrelsen på egen begäran, eller av sektionsmötet genom beslut med kvalificerad majoritet med anledning av motion eller proposition.
+### §6.2.1. På egen begäran
+
+Förtroendevald, med undantag för ledamot och suppleant till THS kårfullmäktige, kan entledigas av sektionsstyrelsen på egen begäran.
+
+Detta görs genom bifall på beslut med relativ majoritet av styrelsen.
+
+### §6.2.2. Av sektionsmötet, misstroendeförklaring
+
+Förtroendevald, med undantag för ledamot och suppleant till THS kårfullmäktige kan entledigas av sektionsmötet.
+
+Detta görs genom bifall på motion eller proposition med kvalificerad majoritet på ett sektionsmöte.
 
 ## §6.3. Kårfullmäktige
 
@@ -396,6 +414,4 @@ Om även samtliga ovanstående paragrafer lästs i följd är behovet av en hobb
 Om medlem som läst dettas hobby består till viss eller mot förmodan stor del av interaktion med dessa dokument bör denne raskt söka professionell hjälp.  
 Om medlem läser detta hälsar Dante varmt till denne.  
 
-Ändring av inehållet av denna punkt sker genom enhälligt beslut på tre på varandra följande sektionsmöten.
-
-IGNORE DIS DIS IS FAKE
+Ändring av inehållet av denna punkt sker genom enhälligt bifall på beslut på tre på varandra följande sektionsmöten.

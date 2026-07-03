@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 2,
+  "annotations": [
+    {
+      "id": "c6742562-de89-4c67-b834-e56f9b708dd5",
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/reglemente/swe/reglemente.md",
+      "file": "reglemente/swe/reglemente.md",
+      "startOffset": 5859,
+      "endOffset": 5900,
+      "lineHash": "754b8a67",
+      "contextBefore": [
+        "* **att** för varje affärshändelse kunna uppvisa verifikationer som innehåller uppgifter om när affärshändelsen skett, vad den avser, vilket belopp den gäller samt vilken motpart den berör.",
+        "* **att** föra kassabok.",
+        "* **att** göra årsbokslut."
+      ],
+      "contextAfter": [
+        "",
+        "Organets affärshändelser attesteras av organets ordförande, eller person av ekvivalent status.",
+        ""
+      ],
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Bör detta verkligen stå? De organ som bedriver verksamhet är egentligen TMEIT och QMISK, men de har (så vitt jag vet) aldrig följt detta. Men de kanske bör?",
+      "timestamp": "2026-07-02T22:57:55.135Z",
+      "languageId": "markdown",
+      "schemaVersion": 2,
+      "state": "active"
+    },
+    {
+      "id": "7d5e7907-6569-4902-a4d3-b99d6e8020a4",
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/stadgar/swe/stadgar.md",
+      "file": "stadgar/swe/stadgar.md",
+      "startOffset": 2276,
+      "endOffset": 2351,
+      "lineHash": "ab4de2be",
+      "contextBefore": [
+        "",
+        "### §2.2.3. Avvikelse",
+        ""
+      ],
+      "contextAfter": [
+        "Avvikelse får ej göras till nackdel för enskild medlem.",
+        "Avvikelse får ej ske från §2.2.",
+        ""
+      ],
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Bör sektionsmötet kunna avvika från stadgarna då de i detta fall endast definierar identitet och demokratisk rätt?",
+      "timestamp": "2026-07-02T22:59:13.687Z",
+      "thread": [
+        {
+          "id": "aa87c979-8e09-4cfe-84bd-b3ae6f2e04d0",
+          "message": "Bör isåfall möjligheten at avvika från stadgarna flyttas\r\ntill möjligheten att avvika från reglementet istället, då reglementet är den mer operativa delen av styrdokumenten?",
+          "author": "Douglas",
+          "timestamp": "2026-07-02T23:07:26.805Z"
+        }
+      ],
+      "languageId": "markdown",
+      "schemaVersion": 2,
+      "state": "active"
+    },
+    {
+      "id": "5a2bddb1-62fe-4075-989d-a88d17e471c6",
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/reglemente/swe/reglemente.md",
+      "file": "reglemente/swe/reglemente.md",
+      "startOffset": 5831,
+      "endOffset": 5857,
+      "lineHash": "2c031ed6",
+      "contextBefore": [
+        "",
+        "* **att** för varje affärshändelse kunna uppvisa verifikationer som innehåller uppgifter om när affärshändelsen skett, vad den avser, vilket belopp den gäller samt vilken motpart den berör.",
+        "* **att** föra kassabok."
+      ],
+      "contextAfter": [
+        "* **att** upprätta verksamhetsberättelse.",
+        "",
+        "Organets affärshändelser attesteras av organets ordförande, eller person av ekvivalent status."
+      ],
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Samma sak här som kommentaren nedan... Är detta ens relevant med tanke på att inget organ har sin egen ekonomi?",
+      "timestamp": "2026-07-02T23:17:12.421Z",
+      "languageId": "markdown",
+      "schemaVersion": 2,
+      "state": "active"
+    },
+    {
+      "id": "bd7768ad-6880-43b8-bf66-fc049a77c53c",
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/stadgar/swe/stadgar.md",
+      "file": "stadgar/swe/stadgar.md",
+      "startOffset": 7395,
+      "endOffset": 7447,
+      "lineHash": "2dc81231",
+      "contextBefore": [
+        "",
+        "## §5.4. Sammanträde",
+        ""
+      ],
+      "contextAfter": [
+        "",
+        "Sektionen kan ej sammanträda under tentamensperiod eller ferie.",
+        ""
+      ],
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Detta kan vara en dålig formulering då Q3 innefattar 1:a juli till 30:e september. Resultatet blir att minst fem SM per år måste ske, då vi kräver sammankallande för ValSM och BudgetSM där de är definierade som separata möten.",
+      "timestamp": "2026-07-02T23:56:57.954Z",
+      "languageId": "markdown",
+      "schemaVersion": 2,
+      "state": "active"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/reglemente/swe/reglemente.md",
+      "file": "reglemente/swe/reglemente.md",
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Change: Tog bort behandlande av kommande års verksamhetsplan då detta känns mer relevant att etablera vid SM#1.",
+      "timestamp": "2026-07-03T00:17:46.346Z",
+      "languageId": "markdown",
+      "id": "de666164-ab94-4fd2-afec-d0c03c3c3dcf",
+      "schemaVersion": 2,
+      "startOffset": 6485,
+      "endOffset": 6600,
+      "lineHash": "85d75380",
+      "contextBefore": [
+        "* **Valmötet**, där kommande års förtroendevalda väljs eller godkänns i enlighet med sektionens styrdokument.",
+        "Mötet ska hållas minst en månad innan utgång av innevarande verksamhetsår.",
+        "* **Budgetmötet**, där kommande års budget fastställs."
+      ],
+      "contextAfter": [
+        "",
+        "",
+        "## §3.2. Kallelse och föredragningslista"
+      ],
+      "state": "active"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/reglemente/swe/reglemente.md",
+      "file": "reglemente/swe/reglemente.md",
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Idk maybe not a good idea.",
+      "timestamp": "2026-07-03T00:32:40.150Z",
+      "languageId": "markdown",
+      "id": "01ca0bbd-8ae9-4508-9b07-4eaf22e4319f",
+      "schemaVersion": 2,
+      "startOffset": 7125,
+      "endOffset": 7316,
+      "lineHash": "23113d49",
+      "contextBefore": [
+        "",
+        "Ordförande ansvarar för att kallelse och preliminär föredragningslista till sektionsmöte anslås senast 14 dygn (336 timmar) innan mötet, samt tillsänds kårstyrelsen och sakrevisorerna senast 10 dygn (240 timmar) innan mötet.",
+        ""
+      ],
+      "contextAfter": [
+        "",
+        "",
+        "# X. Arbetsgrupp"
+      ],
+      "state": "active"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/reglemente/swe/reglemente.md",
+      "file": "reglemente/swe/reglemente.md",
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Att ange timmar är antagligen onödigt men samtidigt är det inte omöjligt att framtida generationer är korkade nog att fucka upp det ändå.",
+      "timestamp": "2026-07-03T00:57:21.929Z",
+      "languageId": "markdown",
+      "id": "bcb5d5ba-5708-4019-9bde-d73710e62a97",
+      "schemaVersion": 2,
+      "startOffset": 6897,
+      "endOffset": 7121,
+      "lineHash": "9ec3e14c",
+      "contextBefore": [
+        "",
+        "Sektionsstyrelsen är skyldig att kalla till sektionsmöte.",
+        ""
+      ],
+      "contextAfter": [
+        "",
+        "Ändring av den preliminära föredragningslistan närmare än sju (7) dygn inpå mötet kräver att ändringarna redovisas i föredragningslistan under punkten för fastställande av föredragningslista.",
+        ""
+      ],
+      "state": "active"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/stadgar/swe/stadgar.md",
+      "file": "stadgar/swe/stadgar.md",
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Är detta en ändring vi vill ha? Jag anser den viktig för att ha möjligheten att agera så pass opartiskt som möjligt utan oro för personlig konflikt.",
+      "timestamp": "2026-07-03T01:20:18.912Z",
+      "languageId": "markdown",
+      "id": "c784d30c-a7c5-4155-aff0-781830f925c9",
+      "schemaVersion": 2,
+      "startOffset": 7915,
+      "endOffset": 7986,
+      "lineHash": "e6b71bcd",
+      "contextBefore": [
+        "",
+        "Utseende av förtroendevald sker genom val om inget annat anges i sektionens styrdokument.",
+        ""
+      ],
+      "contextAfter": [
+        "",
+        "## §6.2. Entledigande",
+        ""
+      ],
+      "state": "active"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/dougl/Desktop/styrdokument-new/reglemente/swe/reglemente.md",
+      "file": "reglemente/swe/reglemente.md",
+      "origin": {
+        "kind": "manual"
+      },
+      "message": "Bör dessa skickas till motionären?",
+      "timestamp": "2026-07-03T19:12:29.709Z",
+      "languageId": "markdown",
+      "id": "3992f3ef-3994-468a-b2f6-d7ffadee24df",
+      "schemaVersion": 2,
+      "startOffset": 9372,
+      "endOffset": 9465,
+      "lineHash": "8bca0df3",
+      "contextBefore": [
+        "Följdmotion får enbart beröra fråga som behandlas i den ursprungliga motionen/propositionen.",
+        "Yrkande om ändrande av motion räknas som följdmotion.",
+        ""
+      ],
+      "contextAfter": [
+        "",
+        "",
+        "# X. Arbetsgrupp"
+      ],
+      "state": "active"
+    }
+  ]
+}
