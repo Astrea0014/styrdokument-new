@@ -244,6 +244,64 @@ Förtroendevald sitter tills mandatperiodens slut eller tills entledigande.
 
 Ordinarie val eller godkännande av sektionens förtroendevalda inför nästkommande verksamshetsår sker under höstterminen om inget annat anges i sektionens styrdokument.
 
+# §5. Sektionsstyrelsen
+
+## §5.1. Sammansättning
+
+Sektionsstyrelsen består av sektionspresidiet samt sju (7) ledamöter.
+
+Sektionens styrelse består av följande:
+
+* Sektionens Ordförande
+* Sektionens vice Ordförande
+* Sektionens Kassör
+* Sektionens Sekreterare
+* Ledamot med ansvar för Utbildningspåverkan
+* Ledamot med ansvar för Studiesocial verksamhet
+* Ledamot med ansvar för Näringslivssamverkan
+* Ledamot med ansvar för Kommunikation
+* Ledamot med ansvar för JML-verksamhet
+* Ledamot
+
+Sektionsstyrelsens medlemmar ska vara utan ekonomiska anmärkningar och inte finnas i något belastningsregister.
+
+## §5.2. Suppleanter
+
+Styrelsens suppleanter är:
+
+* Vice kassör som suppleant för sektionens kassör.
+
+Dessa utför dess ordinarie medlems plikter i dens närvaro samt det arbete som genom överenskommelse delegerats till dem.
+
+## §5.3. Val
+
+Styrelsens ordinarie medlemmar samt suppleanter väljs av sektionsmötet.  
+Enskild sektionsmedlem får endast inneha en styrelse- eller styrelsesuppleantpost åt gången.
+
+## §5.4. Sektionsstyrelsens ansvar
+
+Sektionsstyrelsen ansvarar för att samordna sektionens verksamhetsområden och behandla övergripande frågor gällande sektionens verksamhet.
+
+Sektionsstyrelsen ansvarar även för sektionens strategiska och långsiktiga arbete.
+
+Det operativa arbetet inom sektionen sköts till största del av övriga nämnder och förtroendevalda, men sektionsstyrelsen ska alltid finnas till som stöd för dessa, och ge riktlinjer för det operativa arbetet.
+
+Sektionsstyrelsens specifika uppgifter är:
+
+* **att** sköta sektionens löpande ärenden.
+  * **att** kalla till sektionsmöte.
+  * **att** på egen begäran behandla entledigande av sektionsmötet vald förtroendevald.
+* **att** förvalta budgeterade medel.
+* **att** tillsammans med påträdande sektionsstyrelse utarbeta och föreslå en budget för sektionsmötets godkännande.
+* **att** arbeta strategiskt och långsiktigt.
+  * **att** inför varje verksamhetsår utarbeta och föreslå en verksamhetsplan för sektionsmötets godkännande.
+* **att** samordna nämndernas verksamhet.
+  * **att** vid behov utföra ordförandeskap för nämnd i dess ordförandes ställe.
+
+## §5.5. Sammanträden
+
+
+
 # X. Arbetsgrupp
 
 ## X.1. Syfte
