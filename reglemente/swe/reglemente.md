@@ -244,6 +244,19 @@ Förtroendevald sitter tills mandatperiodens slut eller tills entledigande.
 
 Ordinarie val eller godkännande av sektionens förtroendevalda inför nästkommande verksamshetsår sker under höstterminen om inget annat anges i sektionens styrdokument.
 
+Förtroendevald kan be sektionsstyrelsen att entlediga denne enligt vad som står i stadgarna.  
+Fyllnadsval ska därefter hållas på nästkommande sektionsmöte, om ej tillsättning av posten sker genom godkännande.
+
+Om behov finns kan sektionsstyrelsen tillförordna person till förtroendeuppdrag, med undantag av ledamotöer och suppleanter till kårfullmäktige, samt till sektionsstyrelsen, i väntan på att fyllandsval kan hållas på nästkommande sektionsmöte.
+
+Innevarande verksamhetsår avslutas ej, och nytt verksamhetsår får ej påbörjas, innan alla presidieposter, samt minst en revisor är tillsatta för det kommande verksamhetsåret.
+
+## §4.3. Överlämning
+
+illträdande förtroendevald ska, en månad innan mandatperioden påbörjas, arbeta tillsammans med sin företrädare.
+
+Avgående och tillträdande förtroendevald är gemensamt ansvariga för överlämningen.
+
 # §5. Sektionsstyrelsen
 
 ## §5.1. Sammansättning
@@ -271,14 +284,14 @@ Styrelsens suppleanter är:
 
 * Vice kassör som suppleant för sektionens kassör.
 
-Dessa utför dess ordinarie medlems plikter i dens närvaro samt det arbete som genom överenskommelse delegerats till dem.
+Dessa utför dess ordinarie medlems plikter i dens frånvaro samt det arbete som genom överenskommelse delegerats till dem.
 
 ## §5.3. Val
 
 Styrelsens ordinarie medlemmar samt suppleanter väljs av sektionsmötet.  
 Enskild sektionsmedlem får endast inneha en styrelse- eller styrelsesuppleantpost åt gången.
 
-## §5.4. Sektionsstyrelsens ansvar
+## §5.4. Sektionsstyrelsens gemensamma ansvar
 
 Sektionsstyrelsen ansvarar för att samordna sektionens verksamhetsområden och behandla övergripande frågor gällande sektionens verksamhet.
 
@@ -286,21 +299,197 @@ Sektionsstyrelsen ansvarar även för sektionens strategiska och långsiktiga ar
 
 Det operativa arbetet inom sektionen sköts till största del av övriga nämnder och förtroendevalda, men sektionsstyrelsen ska alltid finnas till som stöd för dessa, och ge riktlinjer för det operativa arbetet.
 
-Sektionsstyrelsens specifika uppgifter är:
+Sektionsstyrelsens specifika ansvar är:
+
+*Löpande ärenden:*
 
 * **att** sköta sektionens löpande ärenden.
-  * **att** kalla till sektionsmöte.
   * **att** på egen begäran behandla entledigande av sektionsmötet vald förtroendevald.
+
+*Sektionsmöte:*
+
+* **att** kalla till sektionsmöte.
+* **att** bereda ärenden som ska behandlas av sektionsmötet.
+  * **att** svara på de motioner som inkommit.
+  * **att** upprätta föredragningslista till sektionsmötet.
+* **att** verkställa av sektionsmötet fattade beslut.
+* **att** vid behov kalla till extra sektionsmöte.
+
+*Ekonomi:*
+
 * **att** förvalta budgeterade medel.
+* **att** inför sektionsmötet bära ansvaret för sektionens och sektionsnämndernas ekonomi.
 * **att** tillsammans med påträdande sektionsstyrelse utarbeta och föreslå en budget för sektionsmötets godkännande.
+
+*Verksamhet:*
+
+* **att** upprätta verksamhetsberättelse.
 * **att** arbeta strategiskt och långsiktigt.
   * **att** inför varje verksamhetsår utarbeta och föreslå en verksamhetsplan för sektionsmötets godkännande.
 * **att** samordna nämndernas verksamhet.
   * **att** vid behov utföra ordförandeskap för nämnd i dess ordförandes ställe.
 
-## §5.5. Sammanträden
+## §5.5. Sektionsstyrelsens individuella ansvar
+
+### §5.5.1. Ordförande
+
+Sektionens ordförande är sammankallande för styrelsen, leder styrelsens arbete samt är ytterst ansvarig för sektionens löpande arbete.
+Därför bör denne tillse att arbetet inom sektionen fungerar väl.
+
+Ordförande ska aktivt samarbeta med och delta i möten anordnat av THS Ordföranderåd.
+
+### §5.5.2. Vice ordförande
+
+Sektionens vice ordförande ska i sektionsordförandes frånvaro utöva dennes befogenheter, och fullgöra dennes plikter.  
+Utöver detta innehar vice ordförande det ansvar som fördelas mellan denne och ordförande efter gemensam överenskommelse.
+
+### §5.5.3. Sekreterare
+
+Sektionens sekreterare ansvarar för sektionens dokument.  
+Denne ska vara insatt i sektionens styrande dokument och ansvarar för att de är korrekt skrivna, både i syftning och i språk.
+
+Sekreteraren ska finnas tillhanda som stöd för de sektionsmedlemmar som önskar yrka tillägg till eller ändring av sektionens styrdokument.
+
+### §5.5.4. Kassör
+
+Sektionens kassör ansvarar för sektionens ekonomi samt dess räkenskaper.  
+Kassören ska löpande genomföra uppföljning av budget med faktiskt utfall samt en prognos omfattande minst det närmaste kvartalet.  
+Denna uppföljning och prognos ska finnas tillgänglig för alla sektionsmedlemmar och uppdateras till varje ordinarie sektionsmöte.
+
+### §5.5.5. Ledamot med ansvar för utbildningspåverkan
+
+Sektionsstyrelseledamot med ansvar för utbildningspåverkan ska arbeta långsiktigt och strategiskt med utbildnings-, jämlikhets- och mångfaldsfrågor inom de program som finns inom sektionen och verka för att de ständigt förbättras intill det bästa är uppnått.
+
+Ledamoten är sammankallande för Studienämnden, och leder det operativa arbetet de förtroendevalda inom nämnden utför.  
+Ledamoten fungerar även som stöd för dessa, samt som en länk mellan Studienämnden och styrelsen.  
+Ledamoten ansvarar för att kalla till möte med Studienämnden innan varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
+Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Utbildningsråd.
+
+### §5.5.6. Ledamot med ansvar för studiesocial verksamhet
+
+Sektionsstyrelseledamot med ansvar för studiesocial verksamhet ska arbeta långsiktigt med att utveckla studentlivet inom sektionen, och samarbeta med de operativa organ inom sektionen som utför arbetet.
+
+Ledamoten samordnar de nämnder inom sektionen som arbetar operativt med sektionens studiesociala verksamhet.  
+Ledamoten fungerar som en länk mellan dessa nämnder och styrelsen, och ansvarar därför för att träffa nämndernas ordförande inför varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
+Ledamoten ska i brist på bättre lämpad kandidat aktivt samarbeta med och delta i möten ordnade av THS Lokalråd.
+
+### §5.5.7. Ledamot med ansvar för näringslivssamverkan
+
+Sektionsstyrelseledamot med ansvar för näringslivssamverkan ska arbeta långsiktigt med att förbättra samarbetet mellan sektionen och näringslivet, samt stärka sektionens varumärke på arbetsmarknaden.
+
+Ledamoten är sammankallande för Näringslivsnämnden, och leder det operativa arbetet de förtroendevalda inom nämnden utför.  
+Ledamoten fungerar även som stöd för dessa, samt som en länk mellan Näringslivsnämnden och styrelsen.  
+Ledamoten ansvarar för att kalla till möte med Näringslivsnämnden innan varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
+Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Näringslivsråd.
+
+### §5.5.8. Ledamot med ansvar för kommunikation
+
+Sektionsstyrelseledamot med ansvar för kommunikation ska arbeta långsiktigt och strategiskt med att stärka sektionens varumärke och dess koppling till THS, förbättra kommunikationen från sektionens organ till dess medlemmar och vice versa samt kartlägga studenternas åsikter och önskemål om sektionen.
+
+Ledamoten är sammankallande för Kommunikationsnämnden, och leder det operativa arbetet de förtroendevalda inom nämnden utför.  
+Ledamoten fungerar även som stöd för dessa, samt som en länk mellan Kommunikationsnämnden och styrelsen.  
+Ledamoten ansvarar för att kalla till möte med Kommunikationsnämnden innan varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
+Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Kommunikationsråd.
+
+### §5.5.9. Ledamot med ansvar för JML-verksamhet
+
+Sektionsstyrelseledamot med ansvar för JML-verksamhet ska arbeta långsiktigt med att utveckla jämställdhet, mångfald och lika villkor inom sektionen och samarbeta med de operativa organ inom sektionen som utför arbetet.
+
+Ledamoten är sammankallande för JML-nämnden, och leder det operativa arbetet de andra medlemmarna inom gruppen utför.  
+Ledamoten fungerar även som stöd för dessa, samt som en länk mellan JML-nämnden och styrelsen.  
+Ledamoten ansvarar för att kalla till möte med JML-nämnden innan varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
+Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS, EECS-skolan och JML Rådet.
+
+## §5.6. Sammanträde
+
+### §5.6.1. Benämning
+
+Sektionsstyrelsens sammanträden benämns styrelsemöte, samt förkortas *StyM*.
+
+### §5.6.2. Kallelse och föredragningslista
+
+Sektionspresidiets medlemmar är skyldiga att kalla till styrelsemöte.
+
+Till sektionsstyrelsens ordinarie sammanträden ska kallelse till möte ske senast sju (7) dygn innan mötet.  
+Föredragningslista med tillhörande handlingar ska delges senast två (2) dagar innan ordinarie möte.
+
+Sektionens ordförande äger rätt att vid brådskande ärenden frångå ovanstående paragraf.  
+Om detta sker ska motivering antecknas i styrelseprotokollet samt ska det rapporteras till nästa ordinarie styrelsemöte att mötet skedde.
+
+### §5.6.3. Rapportering
+
+### §5.6.4. Protokoll
+
+I protokoll ska ingå framställda och icke återtagna yrkanden samt angivna protokollsanteckningar och reservationer.  
+Närvarolista ska förtecknas.
+
+Protokollet justeras av mötesordförande och mötessekreterare.
+
+Mötesprotokoll bör anslås i justerat skick senast fem (5) dagar efter sammanträde, samt senast fem (5) dagar innan kommande möte.  
+Mötessekreteraren ansvarar för att protokollet justeras och anslås.
+
+### §5.6.5. Beslut
+
+Omröstning sker öppet.  
+Omröstning i fråga ska dock ske sluten om röstberättigad medlem så begär.  
+Vid lika röstetal har sektionsordförande utslagsröst.
+
+## §5.7. Motto
+
+Styrelsens motto är och ska förbli "*Try my best to do always!*".
+
+# §6. Sektionens nämnder
+
+## §6.1. Studienämnden
+
+### §6.1.1. Syfte
+
+Studienämnden ansvarar för samordning av studiebevakning och utbildningspåverkan samt representerar sektionen i studiefrågor.
+
+### §6.1.2. Sammansättning
+
+Studienämndens styrelse består av:
+
+* Styrelseledamoten med ansvar för utbildningspåverkan.
+* En programansvarig student (PAS) för vardera av EECS-skolans program som ges på campus KTH Kista på grundutbildningsnivå.
+* En programansvarig student (PAS) som bevakar samtliga masterprogram vid EECS-skolan som ges på campus KTH Kista.
+
+## §6.2. Studiesocialanämnden
+
+## §6.3. Näringslivsnämnden
+
+## §6.4. Kommunikationsnämnden
+
+## §6.5. JML-nämnden
+
+## §6.6. Mottagningsnämnden
+
+## §6.7. ITK
+
+## §6.8. QMISK
+
+## §6.9. TMEIT
+
+## §6.10. Studiemiljönämnden
+
+## §6.11. Idrottsnämnden
+
+## §6.12. init
+
+# §7. Arbetsgrupp
 
 
+
+# §8. Trygghetsrådet
+
+## §8.1. Ansvar
+
+Sektionens trygghetsråd ansvarar för:
+
+* **att** företräda sektionens medlemmar i arbetsmiljöfrågor samt att se till att de förtroendevaldas tilldelade arbete går i linje med arbetsmiljölagstiftningen.
+* **att** hålla kontinuerlig kontakt med THS huvudskyddsombud.
+* **att** hålla kontinuerlig kontakt med sektionens representant i THS.
+* **att** informera personer som kontaktar Trygghetsrådet med information som skulle kunna bryta mot sektionens uppförandepolicy om hur en utredning går till och vad det innebär för personens möjlighet att vara anonym.
 
 # X. Arbetsgrupp
 

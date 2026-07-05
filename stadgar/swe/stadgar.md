@@ -34,8 +34,8 @@ Sektionens organ är:
 * Sektionsmötet.
 * Sektionsstyrelsen.
 * Sektionens nämnder.
-* Sektionens klubbar.
 * Sektionsrevisorerna.
+* Sektionens trygghetsråd.
 * Sektionens valberedning.
 
 ## §1.7. Beslutsnivåer
@@ -269,7 +269,7 @@ Detta görs genom bifall på motion eller proposition med kvalificerad majoritet
 
 ## §6.3. Kårfullmäktige
 
-Ledamot och suppleant till THS kårfullmäktige regleras av THS styrdokument.
+Ledamot och suppleant till THS kårfullmäktige regleras av THS styrdokument, inklusive val och entledigande.
 
 # §7. Sektionsstyrelsen
 
@@ -336,7 +336,7 @@ Nämndmöten är beslutsmässiga då minst 20% av nämndens medlemmar, dock mins
 
 ### §8.3.2. Protokoll
 
-Beslutsprotokoll ska föras för beslutsmässiga nämndmöten.
+Beslutsprotokoll ska föras för nämndmöten där beslut tas.
 
 ## §8.4. Medlemskap
 
@@ -393,21 +393,47 @@ Frågan om ansvarsfrihet för sektionsstyrelsen prövas av sektionsmötet.
 
 Vid fråga om ej beviljad ansvarsfrihet bör ansvarsfrihet prövas för individuella styrelsemedlemmar var och en för sig.
 
-# §10. Valberedning
+# §10. Trygghetsrådet
 
-## §10.1. Sammansättning
+## §10.1. Syfte
+
+Syftet med trygghetsrådet är att medlemmar av sektionen ska ha någon att vända sig till för att få hjälp om de har problem i sin studiemiljö.  
+Detta kan innefatta både fysiska och psykiska problem.
+
+## §10.2. Sammansättning
+
+Sektionens trygghetsråd består minst av två skyddsombud varav ett huvudansvarigt skyddsombud.
+Alla roller i trygghetsrådet väljs av sektionsmötet.
+
+Sektionens skyddsombud får inte vara förtroendevalda styrelsemedlemmar.  
+Minst ett skyddsombud ska inte vara aktiv medlem inom PIFF och PUFF.
+
+## §10.3. Sekretess
+
+Alla skyddsombud i Trygghetsrådet har sekretess.  
+
+Sekretessen innebär att medlemmar i Trygghetsrådet inte får obehörigen röja information som de fått veta i sitt uppdrag gällande yrkeshemligheter, arbetsförfarande eller information om enskilda individer.
+
+Sekretessen kan endast utökas med medgivande från personen som informationen rör.  
+Detta gäller även gentemot andra medlemmar av Trygghetsrådet.
+
+Om information delges till en annan individ med medgivande från personen som informationen rör hamnar denna individ under samma sekretess som en medlem av Trygghetsrådet.
+
+# §11. Valberedning
+
+## §11.1. Sammansättning
 
 Valberedningen utgörs av ett antal ledamöter samt minst en (1) sammankallande valförrättare.
 
 Dessa utses av sektionsmötet.
 
-## §10.2. Ansvar
+## §11.2. Ansvar
 
 Valberedningen bereder val till sektionens förtroendeuppdrag enligt vad som anges i reglementet.
 
 Valberedningen ansvarar för att valet sker i enlighet med sektionens samt THS styrdokument.
 
-# §11. Slutord
+# §12. Slutord
 
 Den medlem som läst detta bör snarast skaffa sig en hobby.  
 Om även samtliga ovanstående paragrafer lästs i följd är behovet av en hobby synnerligen trängande.  
