@@ -23,7 +23,7 @@ Det åligger sektionens sekreterare att tillse att beslutade ändringar förs in
 
 ### §1.1.4. Tolkning
 
-Uppstår svårigheter vid tolkning av sektionens styrdokument tolkas dessa i ordning av sektionsstyrelsen, sektionsrevisorerna, sektionsmötet, THS revisorer.  
+Uppstår svårigheter vid tolkning av sektionens styrdokument tolkas dessa i ordning av sektionsstyrelsen, sektionsrevisorerna, sektionsmötet, THS sakrevisorer.  
 Om någon är missnöjd med tolkningen har denne rätt att lyfta frågan till högre instans.
 
 Om svårigheter uppstår gällande tolkning av sektionens styrdokument åligger det sektionsstyrelsen att, inför nästkommande sektionsmöte, inkomma med förslag till förtydligande av sagda styrdokument som medför att tolkningssvårigheterna undviks i framtiden.
@@ -54,13 +54,13 @@ Detta görs genom bifall på beslut med kvalificerad majoritet på ett sektionsm
 
 ### §1.4.2. Ändring
 
-Ändring av redan upprättad policy sker genom motion eller proposition.
+Ändring av policy sker genom motion eller proposition.
 
 Bifall av sådan motion eller proposition kräver kvalificerad majoritet om inget annat anges i policyn.
 
 ### §1.4.3. Avskaffande
 
-Avskaffande av redan upprättad policy sker genom bifall på beslut med kvalificerad majoritet på ett sektionsmöte om inget annat anges i policyn.
+Avskaffande av policy sker genom bifall på beslut med kvalificerad majoritet på ett sektionsmöte om inget annat anges i policyn.
 
 ## §1.5. Rutin
 
@@ -79,28 +79,28 @@ Upprättande av rutin vid ett sektionsmöte kräver bifall på beslut med kvalif
 Upprättande av rutin av sektionsstyrelsen kräver bifall på beslut med kvalificerad majoritet.
 
 Sektionsstyrelsen kan ej besluta att upprätta en rutin som vidare begränsar eller helt förbjuder styrelsen att bifalla ändringar till rutinen.
-
+<!-- Gör att rutiner är strukturerade att bara ha ett sätt att ändras och avskaffas på, för att ge dom en homogen ändringsform-->
 ### §1.5.2. Ändring
 
 #### §1.5.2.1. Av sektionsmötet
 
-Ändring av redan upprättad rutin sker genom motion eller proposition.
+Ändring av rutin sker genom motion eller proposition.
 
 Bifall av sådan motion eller proposition kräver kvalificerad majoritet om inget annat anges i rutinen.
 
 #### §1.5.2.2. Av sektionsstyrelsen
 
-Ändring av redan upprättad rutin sker genom bifall på beslut med kvalificerad majoritet av sektionsstyrelsen, om inget annat anges i rutinen.
+Ändring av rutin sker genom bifall på beslut med kvalificerad majoritet av sektionsstyrelsen, om inget annat anges i rutinen.
 
 ### §1.5.3. Avskaffande
 
 #### §1.5.3.1. Av sektionsmötet
 
-Avskaffande av redan upprättad rutin sker genom bifall på beslut med kvalificerad majoritet på ett sektionsmöte om inget annat anges i rutinen.
+Avskaffande av rutin sker genom bifall på beslut med kvalificerad majoritet på ett sektionsmöte om inget annat anges i rutinen.
 
 #### §1.5.3.2. Av sektionsstyrelsen
 
-Avskaffande av redan upprättad rutin sker genom bifall på beslut med kvalificerad majoritet av styrelsen om inget annat anges i rutinen.
+Avskaffande av rutin sker genom bifall på beslut med kvalificerad majoritet av styrelsen om inget annat anges i rutinen.
 
 Sektionsstyrelsen kan ej besluta att avskaffa en rutin som vidare begränsar eller helt förbjuder styrelsen att bifalla ändringar till rutinen.
 
@@ -453,6 +453,10 @@ Studienämndens styrelse består av:
 * Styrelseledamoten med ansvar för utbildningspåverkan.
 * En programansvarig student (PAS) för vardera av EECS-skolans program som ges på campus KTH Kista på grundutbildningsnivå.
 * En programansvarig student (PAS) som bevakar samtliga masterprogram vid EECS-skolan som ges på campus KTH Kista.
+
+### §6.1.3. Tillsättning
+
+Samtliga av studienämndens styrelserepresentanter väljs av sektionsmötet.
 
 ## §6.2. Studiesocialanämnden
 
