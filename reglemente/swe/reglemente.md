@@ -411,7 +411,7 @@ Sektionsstyrelsens sammanträden benämns styrelsemöte, samt förkortas *StyM*.
 Sektionspresidiets medlemmar är skyldiga att kalla till styrelsemöte.
 
 Till sektionsstyrelsens ordinarie sammanträden ska kallelse till möte ske senast sju (7) dygn innan mötet.  
-Föredragningslista med tillhörande handlingar ska delges senast två (2) dagar innan ordinarie möte.
+Föredragningslista med tillhörande handlingar ska delges senast två (2) dygn innan ordinarie möte.
 
 Sektionens ordförande äger rätt att vid brådskande ärenden frångå ovanstående paragraf.  
 Om detta sker ska motivering antecknas i styrelseprotokollet samt ska det rapporteras till nästa ordinarie styrelsemöte att mötet skedde.
@@ -480,19 +480,34 @@ Samtliga av studienämndens styrelserepresentanter väljs av sektionsmötet.
 
 ## §6.12. init
 
-# §7. Arbetsgrupp
+# §7. Sektionens projektgrupper
 
 ## §7.1. Upprättande
 
-För arbete inom interna avgränsade sakområden kan styrelsen besluta om att upprätta en arbetsgrupp.  
-Dess namn, ändamål och sammansättning regleras i ett direktiv som upprättas vid upprättandet av arbetsgruppen. 
+För tillfälliga interna projekt kan styrelsen besluta om att inrätta en projektgrupp.  
+Dess namn, ändamål, tidsram, projektledare, särskild behörighet och särskild skydlighet regleras tillsammans med övriga av sektionens styrdokument i ett direktiv som upprättas tillsammans med projektgruppen.
 
-## §7.2. Bemyndigande
+Upprättande av projektgrupp kräver bifall på beslut med kvalificerad majoritet av styrelsen.
 
-Sektionens arbetsgrupper är direkt underställda sektionsstyrelsen.
+## §7.2. Rättigheter
 
-Sektionens arbetsgrupper har ej rätt att företräda sektionen.  
-Undantag till detta kan göras i arbetsgruppens styrande direktiv.
+Projektledaren har rätt att få ett ärende upptaget på styrelsens föredragningslista.  
+Sådant ärende ska skriftligt lämnas till styrelsen senast två (2) dygn innan sammanträdet.
+
+## §7.3. Skyldigheter
+
+Projektgrupper ska skriftligt rapportera till styrelsen inför varje sammanträde.  
+Sådan rapport ska tillhanda styrelsen senast två (2) dygn innan sammanträdet.
+
+Projektledaren ansvarar för ovanstående paragraf.
+
+## §7.4. Ändring av direktiv
+
+Ändring av direktiv för en projektgrupp sker genom bifall på beslut med kvalificerad majoritet av styrelsen.
+
+## §7.5. Tidsram
+
+Projektgruppen är endast aktiv inom den tidsram som angivits i dens reglerande direktiv.
 
 # §8. Trygghetsrådet
 
@@ -504,30 +519,3 @@ Sektionens trygghetsråd ansvarar för:
 * **att** hålla kontinuerlig kontakt med THS huvudskyddsombud.
 * **att** hålla kontinuerlig kontakt med sektionens representant i THS.
 * **att** informera personer som kontaktar Trygghetsrådet med information som skulle kunna bryta mot sektionens uppförandepolicy om hur en utredning går till och vad det innebär för personens möjlighet att vara anonym.
-
-# X. Arbetsgrupp
-
-## X.1. Syfte
-
-Bleh
-
-## X.2. Upprättande
-
-En arbetsgrupp upprättas av styrelsen genom something like kval majoritet. Ett direktiv upprättas tillsammans med arbetsgruppen som beskriver mål och ev ytterligare rättigheter eller mandat som krävs för att utföra arbetet
-
-## X.3. Sammansättning
-
-En gruppledare
-
-X antal medlemmar
-
-Alla tilsätts av styrelsen.
-
-## X.4. Rättigheter
-
-Har automatiskt yttranderätt på stym
-
-## X.5 Skyldigheter
-
-Rapporteringsskyldig till styrelsen
-Gruppledare ansvarar för rapportering

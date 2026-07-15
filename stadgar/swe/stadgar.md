@@ -34,6 +34,7 @@ Sektionens organ är:
 * Sektionsmötet.
 * Sektionsstyrelsen.
 * Sektionens nämnder.
+* Sektionens projektgrupper.
 * Sektionsrevisorerna.
 * Sektionens trygghetsråd.
 * Sektionens valberedning.
@@ -343,20 +344,30 @@ Beslutsprotokoll ska föras för nämndmöten där beslut tas.
 Medlemskap i nämnden måste vara öppet för samtliga medlemmar i sektionen om detta inte förtar eller verkar mot nämndens syfte.  
 Sådana skäl måste redovisas till, samt godkännas av sektionsmötet.
 
-# §9. Sektionens arbetsgrupper
+# §9. Sektionens projektgrupper
 
 ## §9.1. Mandat
 
-Arbetsgrupper är sektionens organ för tillfälliga interna projekt och är direkt underställda sektionsstyrelsen.
+Projektgrupper är sektionens organ för tillfälliga interna projekt och är direkt underställda sektionsstyrelsen.
 
+Sektionens projektgrupper har ej rätt att företräda sektionen om detta inte uttryckligen anges i dess direktiv.
+Endast av sektionsmötet för uppdraget valda eller godkända representanter får utöva sådan representationsrätt.
 
+## §9.2. Sammansättning
 
-För arbete inom interna avgränsade sakområden kan styrelsen besluta om att upprätta en arbetsgrupp.  
-Dess namn, ändamål och sammansättning regleras i ett direktiv som upprättas vid upprättandet av arbetsgruppen.
+En projektgrupp består av en projektledare samt ett antal gruppmedlemmar.
 
-Beslut för upprättande av en arbetsgrupp kräver bifall på beslut med kvalificerad majoritet av styrelsen.
+Projektledaren kan anta och utesluta medlemmar utan krav på beslut.
 
-## §9.2. Bemyndigande
+## §9.3. Rättigheter
+
+Projektledaren har rätt att få ett ärende upptaget på styrelsens föredragningslista och samtliga medlemmar i projektgruppen har rätt att yttra sig när ärendet behandlas.  
+Rätten omfattar inte att lägga beslutsförslag.
+
+## §9.4. Skyldigheter
+
+Projektgrupper är ansvariga inför styrelsen och ska redovisa sitt arbete.  
+Projektgruppens medlemmar har rätt att yttra sig vid redovisandet av sitt arbete.
 
 # §10. Revision och ansvarsfrihet
 
