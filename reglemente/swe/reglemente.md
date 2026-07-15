@@ -482,7 +482,17 @@ Samtliga av studienämndens styrelserepresentanter väljs av sektionsmötet.
 
 # §7. Arbetsgrupp
 
+## §7.1. Upprättande
 
+För arbete inom interna avgränsade sakområden kan styrelsen besluta om att upprätta en arbetsgrupp.  
+Dess namn, ändamål och sammansättning regleras i ett direktiv som upprättas vid upprättandet av arbetsgruppen. 
+
+## §7.2. Bemyndigande
+
+Sektionens arbetsgrupper är direkt underställda sektionsstyrelsen.
+
+Sektionens arbetsgrupper har ej rätt att företräda sektionen.  
+Undantag till detta kan göras i arbetsgruppens styrande direktiv.
 
 # §8. Trygghetsrådet
 

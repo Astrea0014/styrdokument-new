@@ -343,40 +343,55 @@ Beslutsprotokoll ska föras för nämndmöten där beslut tas.
 Medlemskap i nämnden måste vara öppet för samtliga medlemmar i sektionen om detta inte förtar eller verkar mot nämndens syfte.  
 Sådana skäl måste redovisas till, samt godkännas av sektionsmötet.
 
-# §9. Revision och ansvarsfrihet
+# §9. Sektionens arbetsgrupper
 
-## §9.1. Uppgift
+## §9.1. Mandat
+
+Arbetsgrupper är sektionens organ för tillfälliga interna projekt och är direkt underställda sektionsstyrelsen.
+
+
+
+För arbete inom interna avgränsade sakområden kan styrelsen besluta om att upprätta en arbetsgrupp.  
+Dess namn, ändamål och sammansättning regleras i ett direktiv som upprättas vid upprättandet av arbetsgruppen.
+
+Beslut för upprättande av en arbetsgrupp kräver bifall på beslut med kvalificerad majoritet av styrelsen.
+
+## §9.2. Bemyndigande
+
+# §10. Revision och ansvarsfrihet
+
+## §10.1. Uppgift
 
 Sektionens revisorer granskar sektionens verksamhet och redovisning av den ekonomiska förvaltningen.
 
-## §9.2. Sektionsrevisor
+## §10.2. Sektionsrevisor
 
 Sektionens revisorer utgörs av två (2) personer varav alltid minst en (1) måste vara tillsatt.  
 Dessa utses av sektionsmötet.
 
 För varje sektionsorgan måste minst en sektionsrevisor kunna granska verksamheten utan risk för jäv i enlighet med §10.3.
 
-## §9.3. Jäv hos sektionsrevisor
+## §10.3. Jäv hos sektionsrevisor
 
 En sektionsrevisor får inte samtidigt vara ordinarie ledamot eller suppleant i sektionsstyrelsen.
 
 En sektionsrevisor som samtidigt är medlem i något sektionsorgan får inte deltaga i granskningen av detta organs verksamhet.
 
-## §9.4. Åligganden
+## §10.4. Åligganden
 
-### §9.4.1. Granskning
+### §10.4.1. Granskning
 
 Det åligger sektionsrevisorerna:
 
 * **att** för sektionsmötets räkning kontinuerligt granska sektionsstyrelsens och övriga sektionsorgans förvaltning samt deras verksamhet i förhållande till sektionens och THS stadgar.
 * **att** efter verksamhetsårets slut granska sektionsstyrelsens och övriga sektionsorgans förvaltning samt sektionsstyrelsens verksamhetsberättelse.
 
-### §9.4.2. Revisionsberättelsen
+### §10.4.2. Revisionsberättelsen
 
 Sektionsrevisorerna ska mot slutet av sitt uppdrag producera en revisionsberättelse.  
 Berättelsen ska undertecknas av alla tillsatta sektionsrevisorer.
 
-## §9.5. Rättigheter
+## §10.5. Rättigheter
 
 Sektionsrevisorerna äger rätt:
 
@@ -387,20 +402,20 @@ Sektionsrevisorerna äger rätt:
 * **att** ändra i praxis för redovisning.
 * **att** begära extra sektionsmöte.
 
-## §9.7. Ansvarsfrihet
+## §10.6. Ansvarsfrihet
 
 Frågan om ansvarsfrihet för sektionsstyrelsen prövas av sektionsmötet.
 
 Vid fråga om ej beviljad ansvarsfrihet bör ansvarsfrihet prövas för individuella styrelsemedlemmar var och en för sig.
 
-# §10. Trygghetsrådet
+# §11. Trygghetsrådet
 
-## §10.1. Syfte
+## §11.1. Syfte
 
 Syftet med trygghetsrådet är att medlemmar av sektionen ska ha någon att vända sig till för att få hjälp om de har problem i sin studiemiljö.  
 Detta kan innefatta både fysiska och psykiska problem.
 
-## §10.2. Sammansättning
+## §11.2. Sammansättning
 
 Sektionens trygghetsråd består minst av två skyddsombud varav ett huvudansvarigt skyddsombud.
 Alla roller i trygghetsrådet väljs av sektionsmötet.
@@ -408,7 +423,7 @@ Alla roller i trygghetsrådet väljs av sektionsmötet.
 Sektionens skyddsombud får inte vara förtroendevalda styrelsemedlemmar.  
 Minst ett skyddsombud ska inte vara aktiv medlem inom PIFF och PUFF.
 
-## §10.3. Sekretess
+## §11.3. Sekretess
 
 Alla skyddsombud i Trygghetsrådet har sekretess.  
 
@@ -419,21 +434,21 @@ Detta gäller även gentemot andra medlemmar av Trygghetsrådet.
 
 Om information delges till en annan individ med medgivande från personen som informationen rör hamnar denna individ under samma sekretess som en medlem av Trygghetsrådet.
 
-# §11. Valberedning
+# §12. Valberedning
 
-## §11.1. Sammansättning
+## §12.1. Sammansättning
 
 Valberedningen utgörs av ett antal ledamöter samt minst en (1) sammankallande valförrättare.
 
 Dessa utses av sektionsmötet.
 
-## §11.2. Ansvar
+## §12.2. Ansvar
 
 Valberedningen bereder val till sektionens förtroendeuppdrag enligt vad som anges i reglementet.
 
 Valberedningen ansvarar för att valet sker i enlighet med sektionens samt THS styrdokument.
 
-# §12. Slutord
+# §13. Slutord
 
 Den medlem som läst detta bör snarast skaffa sig en hobby.  
 Om även samtliga ovanstående paragrafer lästs i följd är behovet av en hobby synnerligen trängande.  
