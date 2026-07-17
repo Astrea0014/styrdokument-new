@@ -451,8 +451,8 @@ Studienämnden ansvarar för samordning av studiebevakning och utbildningspåver
 Studienämndens styrelse består av:
 
 * Styrelseledamoten med ansvar för utbildningspåverkan.
-* En programansvarig student (PAS) för vardera av EECS-skolans program som ges på campus KTH Kista på grundutbildningsnivå.
-* En programansvarig student (PAS) som bevakar samtliga masterprogram vid EECS-skolan som ges på campus KTH Kista.
+* En programansvarig student (PAS) för vardera av sektionens tillhörande program på grundutbildningsnivå.
+* En programansvarig student (PAS) som bevakar sektionens tillhörande masterprogram.
 
 ### §6.1.3. Tillsättning
 
